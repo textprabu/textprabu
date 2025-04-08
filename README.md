@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello, I'm Prabu!
 
-<!--
-**textprabu/textprabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Currently on a mission to become an **AI Engineer**  
+🛠️ Founder in the making at **Autocode.agency**  
+🌱 Learning Python, Data science, AI Tools, and building real-world tools  
+🎧 Music hobbyist & Logic Pro user (recharging with melody)  
+♿ Proudly pushing limits every day as a paraplegic warrior 💪
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Current Learning Journey
+
+- ✅ Python (OOP, File Handling, Project Building)
+- ✅ Google AI Courses & AI Studio
+- 🚧 Healthcare Automation (early-stage brainstorming)
+- 🎯 Building QuoteBots & Document AI tools
+- IBM Data Science Professional certificate course
+
+---
+
+## 🛠️ Projects
+
+- 💬 QuoteBot (GPT-powered daily quote generator)
+- 🏦 Bank Account System (OOP practice in Python)
+- 📊 Shape Manager (Polymorphism + User Interaction)
+- 🧾 Document Processing Tool (coming soon)
+
+---
+
+## 🧰 Tech Stack
+
+```python
+Python | Git | GitHub | VS Code | Google Colab | Logic Pro
+
+✨ “You cannot put a timetable on curiosity.” — my motto
