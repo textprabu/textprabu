@@ -4,7 +4,7 @@
 🛠️ Founder in the making at **Autocode.agency**  
 🌱 Learning Python, Data science, AI Tools, and building real-world tools  
 🎧 Music hobbyist & Logic Pro user (recharging with melody)  
-♿ Proudly pushing limits every day as a paraplegic warrior 💪
+♿ Proudly pushing limits every day as a paraplegic warrior 💪🧑🏽‍🦽
 
 ---
 
